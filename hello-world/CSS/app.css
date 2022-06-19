@@ -1,0 +1,114 @@
+*{margin:0;padding:0pt;}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14pt;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 48pt;
+    color: #172523;
+}
+
+
+#h1_app_name {
+    color: #172523;
+    margin-top: 30px;
+    padding: 16pt;
+}
+
+#app_description{
+    padding: 16pt;
+}
+
+
+button{
+    padding: 12pt 14pt 12pt 14pt;
+    border-radius: 25pt;
+    background-color: #172523;
+    text-align: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12pt;
+    border-style: hidden;    
+}
+
+button:hover {
+    background-color: #4B6B62;
+    color: white;
+}
+
+button:active{
+    background-color: #4B6B62;
+    color: white;
+}
+
+hr{
+    padding: 2pt;
+    color: #FFB6B3;
+    background-color: #FFB6B3;
+    border-radius: 4pt;
+    border-style: none;
+    align-self: auto;
+    text-align: right;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+img{
+    background-color: #5E7C79;
+    max-width: 500pt;
+    max-height: 500pt;
+    border-radius: 25pt;
+    margin: 16pt;
+}
+
+#footer{
+    background-color: #172523;
+    width: 100%;
+    height: auto;
+    padding: 16pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+#footer_content {
+    max-width: 80%;
+    border: 1px;
+    border-color: red;
+    padding-top: 24pt;
+    padding-left: 24pt;
+}
+
+#author{
+    font-size: 20pt;
+    padding: 16pt;
+    color: white;
+}
+
+#footer_blurb{
+    font-size: 12pt;
+    padding-top: 16pt;
+    padding-left: 16pt;
+    color: white;
+}
+
+#footer_button{
+    margin-left: 16pt;
+    margin-bottom: 16pt;
+    border: #5E7C79;
+    border-width: 1pt;
+    border-style:solid;
+}
+
+body{
+    background-color: #EFEAEA;
+}
